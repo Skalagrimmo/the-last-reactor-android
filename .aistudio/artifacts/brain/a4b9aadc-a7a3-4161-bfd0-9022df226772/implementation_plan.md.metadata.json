@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for integrating an OpenGL ES 2.0/3.0 rendering loop with a GLSurfaceView inside Jetpack Compose, featuring a lightweight data-oriented Entity-Component System (ECS) for the Alchemical Warden and enemy entities with dynamic 2D point-light shaders.",
+  "updatedAt":  "2026-10-30T12:18:08.266940198Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The Last Reactor",
+  "description": "Gothic industrial Action-RPG exploring a crumbling alchemical metropolis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
